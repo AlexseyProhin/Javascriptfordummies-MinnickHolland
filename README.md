@@ -1,2 +1,2 @@
-# Javascriptfordummies-MinnickHolland
+# Современный JavaScript для нетерпеливых
 Практические задания по книге.
